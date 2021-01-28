@@ -1,2 +1,2 @@
-# sanziqi1
+# sanziqi
 三子棋游戏
